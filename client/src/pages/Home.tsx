@@ -169,7 +169,7 @@ export default function Home() {
       title: "Portfolio Website",
       description: "Designed and developed a modern, responsive portfolio using React, Vite, and Tailwind CSS. Implemented reusable components, dynamic project sections, and smooth UI animations to enhance user experience. Integrated version control with GitHub and deployed using Vercel with automated CI/CD.",
       images: ["/projects/portfolio.jpg"],
-      link: "https://github.com/mariamibrahim124/mariiam-ibrahiim-portfolio.git",
+      link: "https://github.com/mariamibrahim124/mariam-portfolio.git",
     },
     {
       title: "LetsDefend labs",
