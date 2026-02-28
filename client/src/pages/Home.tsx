@@ -73,7 +73,6 @@ export default function Home() {
         { name: "Linux", level: 80 },
         { name: "Ubuntu", level: 65 },
         { name: "Red Hat", level: 60 },
-        { name: "Java", level: 60 },
         { name: "LetsDefend", level: 80 },
         { name: "TryHackMe", level: 85 },
       ],
