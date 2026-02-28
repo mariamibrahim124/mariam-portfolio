@@ -249,8 +249,6 @@ export default function Home() {
                 <h1 className="text-5xl md:text-6xl font-bold text-foreground">
                   Mariam Ibrahim
                 </h1>
-                <h2>Cybersecurity Portfolio</h2>
-                <h3>مريم ابراهيم - بورتفوليو سايبر سيكيورتي</h3>
                 <p className="text-2xl text-muted-foreground">
                   Network Security Engineer
                 </p>
